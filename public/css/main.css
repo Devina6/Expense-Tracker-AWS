@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/008/169/402/small/abstract-shapes-and-line-in-nude-pastel-colors-neutral-background-in-minimalist-style-contemporary-illustration-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkolivegreen;
+}
+label{
+    padding-right: 30px;
+    font-family: cursive;
+    font-size: 15px;
+}
