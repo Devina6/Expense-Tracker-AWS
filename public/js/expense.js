@@ -32,7 +32,7 @@ window.onload = async() => {
 
 async function rowPerPage(e){
     e.preventDefault();
-    const row = document.getElementById('rows').value;
+    const row = document.getElementById('row').value;
     console.log(row);
     localStorage.setItem("rowsPerPage",`${row}`)
     await getExpenses(1);
